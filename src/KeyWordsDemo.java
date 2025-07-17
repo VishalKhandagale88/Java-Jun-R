@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class KeyWordsDemo {
+public class KeyWordsDemo {
+    public static void main(String[] args){
+        System.out.println("Hello : ");
+    }
 }

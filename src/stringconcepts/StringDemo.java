@@ -1,2 +1,7 @@
-package stringconcepts;public class StringDemo {
+package stringconcepts;
+
+public class StringDemo {
+    public static void main(String[] args) {
+
+    }
 }
